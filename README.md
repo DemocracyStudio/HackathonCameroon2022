@@ -9,36 +9,36 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 ## Program
 
 ###### Saturday 26 of March:
- - 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
- - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
+- 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
+- 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
 
 ###### Sunday 27 of March:
-4 pm: Launch of the hackathon. All teams present themselves and the challenge they want to work on.
+- 4 pm: Launch of the hackathon. All teams present themselves and the challenge they want to work on.
 They will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 
 ###### Monday 28 of march
-9 am: checkpoint with mentors #1. Be sure everyone has a clear idea in mind and a schedule for the next two days. 
-10 am: first workshop (Urban planning by Neziri)
-12 pm: second workshop (GIS analysis by Liza)
-2 pm: third workshop (Geospatial platform by Jordy)
-4 pm: forth workshop (Design thinking by Anahide)
-6 pm: checkpoint with mentors #2. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
+- 9 am: checkpoint with mentors #1. Be sure everyone has a clear idea in mind and a schedule for the next two days. 
+- 10 am: first workshop (Urban planning by Neziri)
+- 12 pm: second workshop (GIS analysis by Liza)
+- 2 pm: third workshop (Geospatial platform by Jordy)
+- 4 pm: forth workshop (Design thinking by Anahide)
+- 6 pm: checkpoint with mentors #2. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
 
 ###### Tuesday 29 of March
-9 am: checkpoint with mentors #3. Check what progress has been done in prototyping last night. Attendents should have the demo in mind. 
-10 am: fourth workshop (Storytelling by Mariko)
-12 pm: fifth workshop (Submission training: Youtube + GitHub basics by ?)
-4 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
-6 pm: final ceremony with choice from the jury and distribution of prizes.
+- 9 am: checkpoint with mentors #3. Check what progress has been done in prototyping last night. Attendents should have the demo in mind. 
+- 10 am: fourth workshop (Storytelling by Mariko)
+- 12 pm: fifth workshop (Submission training: Youtube + GitHub basics by ?)
+- 4 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
+- 6 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
 
-- Africapolis, 2020, updated 2021. SWAC/OCDE. https://africapolis.org/.  
+1. Africapolis, 2020, updated 2021. SWAC/OCDE. https://africapolis.org/.  
 African urbanization data at country and agglomeration levels, from 1950 to 2015. 
 
 *Country level:
-Total number of people living in urban agglomerations.
-Share of the urban population in total population.
+ - Total number of people living in urban agglomerations.
+ - Share of the urban population in total population.
 Total number of urban agglomerations in country.
 Share of metropolitan population in total urban population.
 Average distance (straight-line) between all pairs of agglomerations in the country.
@@ -56,12 +56,12 @@ Size of the agglomeration’s Voronoi cell in square kilometres.
 
 Can be used to visualize urban growth, new urban areas, migrations of population, population estimation and density. Evaluate the needs for urban services and regulation, infrastructures... Country level will help with continental analysis and 
 
-- LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1
+2. LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1
 Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.
 
 Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
 
-- UN database http://data.un.org/
+3. UN database http://data.un.org/
 Many datasets on many topics (food, agriculture, population, fertility, mortality...) of which several useful to our urban challenges to solve.
 
 * Demographics:
