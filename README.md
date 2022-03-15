@@ -4,8 +4,9 @@
 
 This repository contains all information, program and datasets about the Hackathon Cameroon 2022, an event organised in partnership with the National Business Incubator of Cameroon in Edea. 
 
-## Program
 Summary of the event, context of cameroonian decentralisation, and program of the 3 days + annual event. 
+
+## Program
 
 ###### Saturday 26 of March:
 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
@@ -31,7 +32,7 @@ They will refine their solution together and with the mentors to make their idea
 6 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
-List datasets available, their sources (copyright) content and examples of uses. Link for those too big to be shared here. 
+
 - Africapolis, 2020, updated 2021. SWAC/OCDE. https://africapolis.org/.  
 African urbanization data at country and agglomeration levels, from 1950 to 2015. 
 
