@@ -1,6 +1,6 @@
-# HackathonCameroon2022
-
 ![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/HACKATHON-01.jpg?raw=true)
+
+# HackathonCameroon2022
 
 This repository contains all information, program and datasets about the Hackathon Cameroon 2022, an event organised in partnership with the National Business Incubator of Cameroon in Edea. 
 
