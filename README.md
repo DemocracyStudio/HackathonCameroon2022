@@ -4,10 +4,33 @@
 
 This repository contains all information, program and datasets about the Hackathon Cameroon 2022, an event organised in partnership with the National Business Incubator of Cameroon in Edea. 
 
-
+## Program
 Summary of the event, context of cameroonian decentralisation, and program of the 3 days + annual event. 
 
+###### Saturday 26 of March:
+3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
+5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
 
+###### Sunday 27 of March:
+4 pm: Launch of the hackathon. All teams present themselves and the challenge they want to work on.
+They will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
+
+###### Monday 28 of march
+9 am: checkpoint with mentors #1. Be sure everyone has a clear idea in mind and a schedule for the next two days. 
+10 am: first workshop (Urban planning by Neziri)
+12 pm: second workshop (GIS analysis by Liza)
+2 pm: third workshop (Geospatial platform by Jordy)
+4 pm: forth workshop (Design thinking by Anahide)
+6 pm: checkpoint with mentors #2. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
+
+###### Tuesday 29 of March
+9 am: checkpoint with mentors #3. Check what progress has been done in prototyping last night. Attendents should have the demo in mind. 
+10 am: fourth workshop (Storytelling by Mariko)
+12 pm: fifth workshop (Submission training: Youtube + GitHub basics by ?)
+4 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
+6 pm: final ceremony with choice from the jury and distribution of prizes.
+
+## Datasets
 List datasets available, their sources (copyright) content and examples of uses. Link for those too big to be shared here. 
 - Africapolis, 2020, updated 2021. SWAC/OCDE. https://africapolis.org/.  
 African urbanization data at country and agglomeration levels, from 1950 to 2015. 
@@ -32,26 +55,10 @@ Size of the agglomeration’s Voronoi cell in square kilometres.
 
 Can be used to visualize urban growth, new urban areas, migrations of population, population estimation and density. Evaluate the needs for urban services and regulation, infrastructures... Country level will help with continental analysis and 
 
-- Open Buildings, 2021. GOOGLE RESEARCH. https://sites.research.google/open-buildings/.
-Outlines of buildings derived from high-resolution satellite imagery. 
-
-*Building polygons
-Latitude of the building polygon centroid.
-Longitude of the building polygon centroid.
-Area in square meters of the polygon.
-Confidence score [0.5;1.0] assigned by the model.
-Polygon in the WKT format (POLYGON or MULTIPOLYGON).
-Plus Code at the building polygon centroid.
-
-Can be used for population estimation, urban planning, humanitarian response, environmental and climate science. Population mapping, estimating population density can be useful for understanding human impact on the natural environment, estimating energy needs and carbon emissions, but also in epidemiology to anticipate demand for vaccines and the best locations for facilities. Assess the number of buildings or households affected by flood, drought, or other natural disaster. Also building footprints can help with the rollout of digital addressing systems, in order to access social benefits and economic opportunities. Knowing the numbers of houses in the catchment areas of schools and health centres, mean travel distances to the nearest hospital or forecast of demand for transportation systems.
-
 - LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1
 Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice.
 
 Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
-
-- Open Cities AI, 2020. Radiant Earth foundation. https://mlhub.earth/data/open_cities_ai_challenge
-Dataset built by segment building footprints from aerial imagery,to support mapping for disaster risk management in 10 African cities. 
 
 - UN database http://data.un.org/
 Many datasets on many topics (food, agriculture, population, fertility, mortality...) of which several useful to our urban challenges to solve.
