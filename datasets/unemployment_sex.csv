@@ -1,0 +1,9 @@
+"Country or Area","Subgroup","Year","Source","Unit","Value","Value Footnotes"
+"Cameroon","Female 15+ yr","2001","ILO_KILM Database 5ed_2007","Percent","6.7","1"
+"Cameroon","Female 15+ yr","1996","ILO_KILM Database 5ed_2007","Percent","6.5","2"
+"Cameroon","Male 15+ yr","2001","ILO_KILM Database 5ed_2007","Percent","8.2","1"
+"Cameroon","Male 15+ yr","1996","ILO_KILM Database 5ed_2007","Percent","9.5","2"
+
+"fnSeqID","Footnote"
+"1","Primary source: Household or labour force survey; Repository: LMIL."
+"2","Primary source: Household or labour force survey; Repository: LMIL; Coverage: Civilian."
