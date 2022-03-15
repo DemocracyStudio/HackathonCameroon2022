@@ -38,7 +38,7 @@ African urbanization data at country and agglomeration levels, from 1950 to 2015
 
 *Country level:
  - Total number of people living in urban agglomerations.
- - Share of the urban population in total population.
+   - Share of the urban population in total population.
 Total number of urban agglomerations in country.
 Share of metropolitan population in total urban population.
 Average distance (straight-line) between all pairs of agglomerations in the country.
