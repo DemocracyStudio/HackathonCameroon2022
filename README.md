@@ -9,8 +9,8 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 ## Program
 
 ###### Saturday 26 of March:
-3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
-5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
+ - 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
+ - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
 
 ###### Sunday 27 of March:
 4 pm: Launch of the hackathon. All teams present themselves and the challenge they want to work on.
