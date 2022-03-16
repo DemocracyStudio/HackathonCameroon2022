@@ -9,27 +9,33 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 ## Program
 
 ###### Saturday 26 of March:
+- 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers.
+- 1 pm: Picture and interviews.
 - 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest.
 
 ###### Sunday 27 of March:
-- 4 pm: Launch of the hackathon. All teams present themselves and the challenge they want to work on.
-They will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
-
-###### Monday 28 of march
-- 9 am: checkpoint with mentors #1. Be sure everyone has a clear idea in mind and a schedule for the next two days. 
-- 10 am: first workshop (Urban planning by Neziri)
+- 9 am: First pitch. All teams present themselves and the challenge they want to work on. They will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
+- 11 am: first workshop (Urban planning by Neziri)
 - 12 pm: second workshop (GIS analysis by Liza)
 - 2 pm: third workshop (Geospatial platform by Jordy)
-- 4 pm: forth workshop (Design thinking by Anahide)
-- 6 pm: checkpoint with mentors #2. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
+- 3 pm: fourth workshop (Design thinking by Anahide)
+- 5 pm: checkpoint with mentors #1. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
+
+###### Monday 28 of march
+- 9 am: checkpoint with mentors #2. Each team take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night. 
+- 11 am: fifth workshop (Storytelling by Mariko)
+- 12 pm: sixth workshop (Content writing by Bate)
+- 2 pm: seventh workshop (News of the Camerounian ecocystem by Bayle Balata)
+- 3 pm: eighth workshop (Submission training: Youtube + GitHub basics by ?)
+- 5 pm: checkpoint with mentors #3. Each team take the call. Attendents should focus on their submission and demo video for now. 
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #3. Check what progress has been done in prototyping last night. Attendents should have the demo in mind. 
-- 10 am: fourth workshop (Storytelling by Mariko)
-- 12 pm: fifth workshop (Submission training: Youtube + GitHub basics by ?)
-- 4 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
-- 6 pm: final ceremony with choice from the jury and distribution of prizes.
+- 9 am: checkpoint with mentors #4. Each team take the call. Last chance for final advices. 
+- 10 am: arrival of the minister and welcoming protocol. Official speakers.
+- 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
+- 12 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
+- 2 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
 
