@@ -1,4 +1,4 @@
-![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/HACKATHON-01.jpg?raw=true)
+![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer.jpg?raw=true)
 
 # HackathonCameroon2022
 
