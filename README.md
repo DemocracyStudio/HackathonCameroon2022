@@ -115,3 +115,21 @@ They will refine their solution together and with the mentors to make their idea
    - Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
    - Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high).
    - Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
+
+4. World Bank Data https://datacatalog.worldbank.org/. Free and open access to global development data, on many topics, many can be used for market analysis or other business intelligence insight to shape better your startup project.
+
+- Economy:
+   - World Development Index.
+   - Africa Development Indicators.
+   - Doing business: 190 countries ranked on easiness of doing business. 
+    
+- Jobs:
+   - Industry employment growth.
+   - Worldwide Bureaucracy Indicator:cross-national dataset on public sector employment.
+
+- Environment:
+   - ESG Data: 17 key sustainability themes spanning environmental, social, and governance.
+
+- Transportation:
+   - Logistics Performance Index reflects perceptions of a country's logistics performance.
+   - 
