@@ -15,23 +15,23 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 
 ###### Sunday 27 of March:
-- 9 am: First pitch. All teams present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
+- 9 am: First pitch. All teams take the call, present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
 - 11 am: first workshop (Urban planning by Neziri)
 - 12 pm: second workshop (GIS analysis by Liza)
 - 2 pm: third workshop (Geospatial platform by Jordy)
 - 3 pm: fourth workshop (Design thinking by Anahide)
-- 5 pm: checkpoint with mentors #1. Be sure all teams have made progress in their ideation and upskilled themselves to produce the best prototype. 
+- 5 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their ideation and upskilled themselves to produce the best prototype demo. 
 
 ###### Monday 28 of march
-- 9 am: checkpoint with mentors #2. Each team take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night. 
-- 11 am: fifth workshop (Storytelling by Mariko)
-- 12 pm: sixth workshop (Content writing by Bate)
-- 2 pm: seventh workshop (News of the Camerounian ecocystem by Bayle Balata)
-- 3 pm: eighth workshop (Submission training: Youtube + GitHub basics by ?)
-- 5 pm: checkpoint with mentors #3. Each team take the call. Attendents should focus on their submission and demo video for now. 
+- 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support needs toward coaches. 
+- 11 am: fifth workshop (Machine Learning by Volviane)
+- 12 am: sixth workshop (Storytelling by Mariko)
+- 2 pm: seventh workshop (Content writing by Bate)
+- 3 pm: eighth workshop (News of the Camerounian ecocystem by Bayle Balata)
+- 5 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #4. Each team take the call. Last chance for final advices. 
+- 9 am: checkpoint with mentors #4. All teams take the call. Last chance for final advices and submission. 
 - 10 am: arrival of the minister and welcoming protocol. Official speakers.
 - 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
 - 12 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
@@ -139,3 +139,8 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - Transportation:
    - Logistics Performance Index reflects perceptions of a country's logistics performance.
    - 
+
+5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
+
+- GHS built: A global map of built-up presence derived from Sentinel1 images (2016).
+- multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
