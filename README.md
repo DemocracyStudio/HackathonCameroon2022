@@ -12,7 +12,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers.
 - 1 pm: Picture and interviews.
 - 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
-- 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. They will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
+- 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 
 ###### Sunday 27 of March:
 - 9 am: First pitch. All teams present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
