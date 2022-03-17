@@ -18,16 +18,18 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 9 am: First pitch. All teams take the call, present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
 - 11 am: first workshop (Urban planning by Neziri)
 - 12 pm: second workshop (GIS analysis by Liza)
-- 2 pm: third workshop (Geospatial platform by Jordy)
-- 3 pm: fourth workshop (Design thinking by Anahide)
+- 1 pm: third workshop (Causality mapping by Surjyatapa)
+- 2 pm: fourth workshop (Geospatial platform by Jordy)
+- 3 pm: fifth workshop (Design thinking by Anahide)
 - 5 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their ideation and upskilled themselves to produce the best prototype demo. 
 
 ###### Monday 28 of march
 - 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support needs toward coaches. 
-- 11 am: fifth workshop (Machine Learning by Volviane)
-- 12 am: sixth workshop (Storytelling by Mariko)
-- 2 pm: seventh workshop (Content writing by Bate)
-- 3 pm: eighth workshop (News of the Camerounian ecocystem by Bayle Balata)
+- 11 am: sixth workshop (Machine Learning by Volviane)
+- 12 pm: seventh workshop (Storytelling by Mariko)
+- 1 pm: eighth workshop (Crowdfounding by Roland)
+- 2 pm: ninth workshop (Content writing by Bate)
+- 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle Balata)
 - 5 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
 
 ###### Tuesday 29 of March
