@@ -125,20 +125,48 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 4. World Bank Data https://datacatalog.worldbank.org/. Free and open access to global development data, on many topics, many can be used for market analysis or other business intelligence insight to shape better your startup project.
 
 - Economy:
-   - World Development Index.
-   - Africa Development Indicators.
+   - Development Index (world).
+   - Development Indicators (africa).
+   - Development indicators (cameroon).
+   - Statistical performance indicators.
    - Doing business: 190 countries ranked on easiness of doing business. 
-    
-- Jobs:
-   - Industry employment growth.
-   - Worldwide Bureaucracy Indicator:cross-national dataset on public sector employment.
+   - Enabling Agriculture: identifies reforms to remove obstacles for farmers seeking to grow their business in 101 countries.
+   - Finance access policy for all countries.
+
+- Demography:
+   - Migration by skill, industry and country, between 140 countries (2015-2019).
+   - Exclusion indicators (world).
 
 - Environment:
    - ESG Data: 17 key sustainability themes spanning environmental, social, and governance.
+   - Natural risks is a shapefile dataset with information about earthquake, water flooding and landslide exposure.
+   - Vegetation Cameroun shapefile contains vegetation and forests land cover in Cameroon.
+   - Cameroon water courses (shapefile)
+
+- Urbanization:
+   - Urban expansion 1985-2015 produced by the Satellite Monitoring Service of Urbanization in Africa.
+   - Urban Clusters points built-up areas in Africa with more than 10k inhabitants. Sizes of areas and expansion data. 
+   - Cameroon cities (shapefiles).
+    
+- Jobs:
+   - Industry employment growth.
+   - Bureaucracy Index (world):cross-national dataset on public sector employment.
+   - Jobs: Over 150 indicators on labor-related topics, covering over 200 economies from 1990 to present
+   - Jobs Indicators database presents more than 100 labor market indicators for 164 countries.
+
+- Electricity:
+   - Cameroon Electricity Transmission Network (shapefile)
+   - Cameroon power plants (shapefile)
 
 - Transportation:
    - Logistics Performance Index reflects perceptions of a country's logistics performance.
-   - 
+   - CMR Roads: Quality of roads between cities. 
+
+- Food:
+   - Food Safety provides information on 518 food safety investments in Africa (2010-2017).
+
+- Waste:
+   - Solid waste management statistics covering nearly all countries and over 330 cities.
 
 5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
 
