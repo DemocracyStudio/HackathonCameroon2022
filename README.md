@@ -13,6 +13,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 1 pm: Picture and interviews.
 - 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
+- 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy before the hard work.
 
 ###### Sunday 27 of March:
 - 9 am: First pitch. All teams take the call, present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
@@ -21,10 +22,10 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 1 pm: third workshop (Causality mapping by Surjyatapa)
 - 2 pm: fourth workshop (Geospatial platform by Jordy)
 - 3 pm: fifth workshop (Design thinking by Anahide)
-- 5 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their ideation and upskilled themselves to produce the best prototype demo. 
+- 5 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
 
 ###### Monday 28 of march
-- 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support needs toward coaches. 
+- 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support demands over coaches. 
 - 11 am: sixth workshop (Machine Learning by Volviane)
 - 12 pm: seventh workshop (Storytelling by Mariko)
 - 1 pm: eighth workshop (Crowdfounding by Roland)
@@ -33,7 +34,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 5 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #4. All teams take the call. Last chance for final advices and submission. 
+- 9 am: checkpoint with mentors #4. All teams take the call. Last chance for final advices before submission. 
 - 10 am: arrival of the minister and welcoming protocol. Official speakers.
 - 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
 - 12 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
@@ -61,14 +62,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
    - Name of corresponding metropolitan agglomeration.
    - Size of the agglomeration’s Voronoi cell in square kilometres.
 
-2. LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1. Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice. Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
-
-5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
-
-- GHS built: A global map of built-up presence derived from Sentinel1 images (2016).
-- multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
-
-3. UN database http://data.un.org/. Many datasets on many topics (food, agriculture, population, fertility, mortality...) of which several useful to our urban challenges to solve. Can be used for market analysis, business intelligence, data analysis to empower your pitches, and find the best go-to-market strategy. 
+2. UN database http://data.un.org/. Many datasets on many topics (food, agriculture, population, fertility, mortality...) of which several useful to our urban challenges to solve. Can be used for market analysis, business intelligence, data analysis to empower your pitches, and find the best go-to-market strategy. 
 
 - Demographics:
    - Pop total.
@@ -129,7 +123,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
    - Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high).
    - Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
 
-4. World Bank Data https://datacatalog.worldbank.org/. Free and open access to global development data, on many topics, many can be used for market analysis or other business intelligence insight to shape better your startup project.
+3. World Bank Data https://datacatalog.worldbank.org/. Free and open access to global development data, on many topics, many can be used for market analysis or other business intelligence insight to shape better your startup project.
 
 - Economy:
    - Development Index (world).
@@ -175,8 +169,14 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - Waste:
    - Solid waste management statistics covering nearly all countries and over 330 cities.
 
-6. Open Street Maps, https://www.openstreetmap.org/. Open source, collaborative project to create a free editable geographic database of the world. 
+4. Open Street Maps, https://www.openstreetmap.org/. Open source, collaborative project to create a free editable geographic database of the world. 
 - yaounde streets (shapefile and graph file). 
 - douala streets (shapefile and graph file). 
 - edea streets (shapefile and graph file). 
-- 
+
+5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
+
+- GHS built: A global map of built-up presence derived from Sentinel2 images (2020).
+- GHS multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
+
+6. LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1. Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice. Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
