@@ -61,6 +61,11 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 
 2. LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1. Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice. Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
 
+5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
+
+- GHS built: A global map of built-up presence derived from Sentinel1 images (2016).
+- multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
+
 3. UN database http://data.un.org/. Many datasets on many topics (food, agriculture, population, fertility, mortality...) of which several useful to our urban challenges to solve. Can be used for market analysis, business intelligence, data analysis to empower your pitches, and find the best go-to-market strategy. 
 
 - Demographics:
@@ -168,7 +173,8 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - Waste:
    - Solid waste management statistics covering nearly all countries and over 330 cities.
 
-5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
-
-- GHS built: A global map of built-up presence derived from Sentinel1 images (2016).
-- multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
+6. Open Street Maps, https://www.openstreetmap.org/. Open source, collaborative project to create a free editable geographic database of the world. 
+- yaounde streets (shapefile and graph file). 
+- douala streets (shapefile and graph file). 
+- edea streets (shapefile and graph file). 
+- 
