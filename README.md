@@ -2,18 +2,20 @@
 
 # HackathonCameroon2022
 
-This repository contains all information, program and datasets about the Hackathon Cameroon 2022, an event organised in partnership with the National Business Incubator of Cameroon in Edea. 
+Over the last 10 years, Cameroon started a process of decentralization: provinces have been changed into Regions, and senators has been established across the country. In 2019, the Government instituted “the general code of regional and local authorities” empowering the localities of each big town of Cameroon: regional councils and presidents of the region have been elected. In 2021, common decentralisation funds have been distributed for 2022. In a decree, the president of the republic of Cameroon transfered URBANISATION AND HOUSING competences to local authorities, giving them more power and budget to master local territorial developments. This unprecendented opportunity comes with economical growth and finantial autonomisation challenges to solve. 
 
-Summary of the event, context of cameroonian decentralisation, and program of the 3 days + annual event. 
+In order to address these issues, the National Business Incubator of Cameroon has been built in Edea. The place is in charge for training staffs of local authorities and city councils, as well as growing the seeds of the next generation of innovative entreprises of the country. This year it collaborates with an internation team of urbanists traveling the African continent under the name of "Traveling Circus of Urbanism" with the objective to solve precisely local urban challenges faced by Cameroonian municipalities. 
+
+Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us to detect the most promising teams and ideas willing to shape the Cameroonian startup ecosystem of tomorrow. Participants will benefit the most valuable mentoring of international experts on the topic, and shape the better solutions to the crucial issues faced by our cities nowadays. The winners of the hackathon will be integrated to a 4-Months program of the National Business Incubator where they will receive support to go from prototype to MVP, find their market-fit, and start their business development.  
 
 ## Program
 
 ###### Saturday 26 of March:
 - 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers.
 - 1 pm: Picture and interviews.
-- 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, HubCity by Sename A. Koffi.
+- 3 pm: Introductory conference. Présentation of the PNPE, Hackathon Cameroon 2022, "African Smart-Cities" by Sename A. Koffi.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
-- 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy before the hard work.
+- 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy the hard work.
 
 ###### Sunday 27 of March:
 - 9 am: First pitch. All teams take the call, present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
@@ -30,7 +32,7 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 - 12 pm: seventh workshop (Storytelling by Mariko)
 - 1 pm: eighth workshop (Crowdfounding by Roland)
 - 2 pm: ninth workshop (Content writing by Bate)
-- 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle Balata)
+- 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle)
 - 5 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
 
 ###### Tuesday 29 of March
@@ -176,7 +178,9 @@ Summary of the event, context of cameroonian decentralisation, and program of th
 
 5. Global Human Settlement, European Commission. https://ghsl.jrc.ec.europa.eu/. The Global Human Settlement Layer project of the European Commission’s Joint Research Centre addresses the need for open, inclusive and consistent data with spatially detailed information on population and settlements which can be utilised to assess humanity’s impact on the planet, access to resources, and exposure to risk. It aims to generate actionable information to support decision making by governments, organizations and individuals. 
 
-- GHS built: A global map of built-up presence derived from Sentinel2 images (2020).
-- GHS multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
-
-6. LandCoverNet, 2020. Radiant Earth foundation. https://mlhub.earth/data/landcovernet_v1. Land cover classification dataset across Africa, with labels for the multi-spectral satellite imagery from Sentinel-2 mission. There are seven land cover classes, based on its annual time series: water, natural bare ground, artificial bare ground, woody vegetation, cultivated vegetation, (semi) natural vegetation, and permanent snow/ice. Can be used for calculation of needs in specific areas, in terms of mechanic engineering, chemical products, evaluating agricultural production... Using machine learning or not. 
+- douala_ghs_2020: classification of built-up areas using Convolutional Neural Networks on 2018 Sentinel-2 images.
+- yaounde_ghs_2020: classification of built-up areas using Convolutional Neural Networks on 2018 Sentinel-2 images.
+- douala_ghs_2018: classification of built-up areas on 2018 Sentinel-1 images.
+- yaounde_ghs_2018: classification of built-up areas on 2018 Sentinel-1 images.
+- douala_ghs_2014: multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
+- yaounde_ghs_2014: multitemporal information on built-up presence derived from Landsat image (1975-1990-2000-2014).
