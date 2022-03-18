@@ -136,9 +136,12 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
    - Enabling Agriculture: identifies reforms to remove obstacles for farmers seeking to grow their business in 101 countries.
    - Finance access policy for all countries.
 
-- Demography:
+- Demographics:
    - Migration by skill, industry and country, between 140 countries (2015-2019).
    - Exclusion indicators (world).
+
+- Waste:
+   - Solid waste management statistics covering nearly all countries and over 330 cities.
 
 - Environment:
    - ESG Data: 17 key sustainability themes spanning environmental, social, and governance.
@@ -168,10 +171,15 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - Food:
    - Food Safety provides information on 518 food safety investments in Africa (2010-2017).
 
-- Waste:
-   - Solid waste management statistics covering nearly all countries and over 330 cities.
-
 4. Open Street Maps, https://www.openstreetmap.org/. Open source, collaborative project to create a free editable geographic database of the world. 
 - yaounde streets (shapefile and graph file). 
 - douala streets (shapefile and graph file). 
 - edea streets (shapefile and graph file). 
+
+5. World Pop, https://www.worldpop.org/. Open spatial demographic data and peer-reviewed research for population distributions, demographic and dynamics. 
+- Cameroon population density 2020, at a resolution of 1km.
+- Cameroon population density 2010, at a resolution of 1km.
+- Cameroon population density 2000, at a resolution of 1km.
+
+6. Yandex, https://n.maps.yandex.ru/. Russian web mapping service provides detailed maps of the whole world, with sometimes a latest update on manual field data collection, which give them different info than OSM and Google Maps. In the case of Cameroon, we had the feeling that they did a good mapping work which could benefit our participants.
+- POI Yaoundé: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
