@@ -172,18 +172,22 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
    - Food Safety provides information on 518 food safety investments in Africa (2010-2017).
 
 4. Open Street Maps, https://www.openstreetmap.org/. Open source, collaborative project to create a free editable geographic database of the world. 
-- yaounde streets (shapefile and graph file). 
-- douala streets (shapefile and graph file). 
-- edea streets (shapefile and graph file). 
+- Urbanization:
+   - yaounde streets (shapefile and graph file). 
+   - douala streets (shapefile and graph file). 
+   - edea streets (shapefile and graph file). 
 
 5. Global Human Settlement, https://ghsl.jrc.ec.europa.eu/. 
-- Yaounde ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
-- Douala ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
+- Urbanization:
+   - Yaounde ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
+   - Douala ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
 
 6. World Pop, https://www.worldpop.org/. Open spatial demographic data and peer-reviewed research for population distributions, demographic and dynamics. 
-- Cameroon population density 2020, at a resolution of 1km.
-- Cameroon population density 2010, at a resolution of 1km.
-- Cameroon population density 2000, at a resolution of 1km.
+- Demographics 
+   - Cameroon population density 2020, at a resolution of 1km.
+   - Cameroon population density 2010, at a resolution of 1km.
+   - Cameroon population density 2000, at a resolution of 1km.
 
 7. Yandex, https://n.maps.yandex.ru/. Russian web mapping service provides detailed maps of the whole world, with sometimes a latest update on manual field data collection, which give them different info than OSM and Google Maps. In the case of Cameroon, we had the feeling that they did a good mapping work which could benefit our participants.
-- POI Yaoundé: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
+- Economy: 
+   - POI Yaoundé: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
