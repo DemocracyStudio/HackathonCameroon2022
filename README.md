@@ -193,4 +193,4 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 
 7. Yandex, https://n.maps.yandex.ru/. Russian web mapping service provides detailed maps of the whole world, with sometimes a latest update on manual field data collection, which give them different info than OSM and Google Maps. In the case of Cameroon, we had the feeling that they did a good mapping work which could benefit our participants.
 - Economy: 
-   - POI Yaoundé: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
+   - POI Yandex: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
