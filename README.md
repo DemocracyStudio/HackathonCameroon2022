@@ -176,6 +176,9 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
    - yaounde streets (shapefile and graph file). 
    - douala streets (shapefile and graph file). 
    - edea streets (shapefile and graph file). 
+ 
+- Economy: 
+   - POI geosm: Points of interests (bars, restaurants, supermarkets...) of Yaoundé city.
 
 5. Global Human Settlement, https://ghsl.jrc.ec.europa.eu/. 
 - Urbanization:
