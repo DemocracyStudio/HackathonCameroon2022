@@ -177,8 +177,8 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - edea streets (shapefile and graph file). 
 
 5. Global Human Settlement, https://ghsl.jrc.ec.europa.eu/. 
-- Yaounde 2018
-- Douala 2018
+- Yaounde ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
+- Douala ghs 2018: built-up area presence as derived from Landsat image collections of 2018.
 
 6. World Pop, https://www.worldpop.org/. Open spatial demographic data and peer-reviewed research for population distributions, demographic and dynamics. 
 - Cameroon population density 2020, at a resolution of 1km.
