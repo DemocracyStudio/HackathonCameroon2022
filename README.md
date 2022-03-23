@@ -8,6 +8,8 @@ In order to address these issues, the National Business Incubator of Cameroon ha
 
 Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us to detect the most promising teams and ideas willing to shape the Cameroonian startup ecosystem of tomorrow. Participants will benefit the most valuable mentoring of international experts on the topic, and shape the better solutions to the crucial issues faced by our cities nowadays. The winners of the hackathon will be integrated to a 4-Months program of the National Business Incubator where they will receive support to go from prototype to MVP, find their market-fit, and start their business development.  
 
+An online workspace can be joined by this link https://chat.google.com/preview/room/AAAAqLUOT8c
+
 ## Program
 
 ###### Saturday 26 of March:
