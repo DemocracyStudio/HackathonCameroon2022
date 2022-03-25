@@ -13,9 +13,9 @@ An online workspace can be joined by this link https://chat.google.com/preview/r
 ## Program
 
 ###### Saturday 26 of March:
-- 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers. Presentation of the PNPE - National Business Incubator. Présentation of the program of the Hackathon Cameroon 2022. 
+- 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers. Presentation of the PNPE - National Business Incubator.
 - 1 pm: Picture and interviews.
-- 3 pm: Introductory conference. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi.
+- 3 pm: Introductory conference. Présentation of the program of the Hackathon Cameroon 2022. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 - 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy the hard work.
 
