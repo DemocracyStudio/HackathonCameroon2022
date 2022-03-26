@@ -1,5 +1,7 @@
 ![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer.jpg?raw=true)
 
+All links to meetings are published on the following online workspace https://chat.google.com/preview/room/AAAAqLUOT8c
+
 # HackathonCameroon2022
 
 Over the last 10 years, Cameroon started a process of decentralization: provinces have been changed into Regions, and senators has been established across the country. In 2019, the Government instituted “the general code of regional and local authorities” empowering the localities of each big town of Cameroon: regional councils and presidents of the region have been elected. In 2021, common decentralisation funds have been distributed for 2022. In a decree, the president of the republic of Cameroon transfered URBANISATION AND HOUSING competences to local authorities, giving them more power and budget to master local territorial developments. This unprecendented opportunity comes with economical growth and finantial autonomisation challenges to solve. 
@@ -8,14 +10,11 @@ In order to address these issues, the National Business Incubator of Cameroon ha
 
 Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us to detect the most promising teams and ideas willing to shape the Cameroonian startup ecosystem of tomorrow. Participants will benefit the most valuable mentoring of international experts on the topic, and shape the better solutions to the crucial issues faced by our cities nowadays. The winners of the hackathon will be integrated to a 4-Months program of the National Business Incubator where they will receive support to go from prototype to MVP, find their market-fit, and start their business development.  
 
-An online workspace can be joined by this link https://chat.google.com/preview/room/AAAAqLUOT8c
-
 ## Program
 
 ###### Saturday 26 of March:
-- 12 pm: Opening ceremony from Edea's mayor or prefect. Official speakers. Presentation of the PNPE - National Business Incubator.
-- 1 pm: Picture and interviews.
-- 3 pm: Introductory conference. Présentation of the program of the Hackathon Cameroon 2022. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi.
+- 3 pm: Introductory conference. Presentation of the PNPE - National Business Incubator. Présentation of the program of the Hackathon Cameroon 2022. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi.
+- 4.30 pm: Collective Picture.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 - 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy the hard work.
 
