@@ -25,7 +25,7 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 1 pm: third workshop (Causality mapping by Surjyatapa)
 - 2 pm: fourth workshop (Geospatial platform by Jordy)
 - 3 pm: fifth workshop (Design thinking by Anahide)
-- 6 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
+- 7 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
 
 ###### Monday 28 of march
 - 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support demands over coaches. 
@@ -34,13 +34,13 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 1 pm: eighth workshop (Crowdfounding by Roland)
 - 2 pm: ninth workshop (Content writing by Bate)
 - 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle)
-- 6 pm: checkpoint with mentors #3. All teams take the call. Youtube + GitHub training. Attendents should have their submission and demo video in mind. 
+- 7 pm: checkpoint with mentors #3. All teams take the call.  
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #4. All teams take the call, everyone works on the final presentation from now. 3-min Video on youtube + fill the submission form. 
+- 9 am: checkpoint with mentors #4. All teams take the call,Youtube + GitHub training. Attendents should work on their submission and demo video from now.
 - 10 am: arrival of the minister and welcoming protocol. Official speakers.
 - 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
-- 12 pm: submission deadline. 3 min video recorded on youtube + zip file on github.
+- 12 pm: submission deadline. 3 min video recorded on youtube + fill the submission form.
 - 2 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
