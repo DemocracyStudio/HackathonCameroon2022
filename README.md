@@ -34,7 +34,7 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 1 pm: eighth workshop (Crowdfounding by Roland)
 - 2 pm: ninth workshop (Content writing by Bate)
 - 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle)
-- 7 pm: checkpoint with mentors #3. All teams take the call.  
+- 7 pm: checkpoint with mentors #3. All teams take the call, present their prototype, business model, strategy for growth.
 
 ###### Tuesday 29 of March
 - 9 am: checkpoint with mentors #4. All teams take the call,Youtube + GitHub training. Attendents should work on their submission and demo video from now.
