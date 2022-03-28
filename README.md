@@ -37,11 +37,11 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing us 
 - 7 pm: checkpoint with mentors #3. All teams take the call, present their prototype, business model, strategy for growth.
 
 ###### Tuesday 29 of March
-- 9 am: checkpoint with mentors #4. All teams take the call,Youtube + GitHub training. Attendents should work on their submission and demo video from now.
+- 9 am: checkpoint with mentors #4. All teams take the call,Youtube training. Attendents should work on their submission and demo video from now.
 - 10 am: arrival of the minister and welcoming protocol. Official speakers.
 - 11 am: visit of the National Business Incubator. Inauguration of the FabLab.
 - 12 pm: submission deadline. 3 min video recorded on youtube + fill the submission form.
-- 2 pm: final ceremony with choice from the jury and distribution of prizes.
+- 1 pm: final ceremony with choice from the jury and distribution of prizes.
 
 ## Datasets
 
