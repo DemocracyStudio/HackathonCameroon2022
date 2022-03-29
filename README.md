@@ -1,4 +1,4 @@
-![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer.jpg?raw=true)
+![alt text](https://github.com/DemocracyStudio/HackathonCameroon2022/blob/main/hackathon_flyer_final.jpg?raw=true)
 
 All links to online meetings are published on the following workspace chat https://chat.google.com/preview/room/AAAAqLUOT8c
 
