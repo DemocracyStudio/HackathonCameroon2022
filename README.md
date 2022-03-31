@@ -13,27 +13,27 @@ Hackathon Cameroon 2022 is the opening event of this collaboration, allowing jur
 ## Program
 
 ###### Saturday 26 of March:
-- 3 pm: Introductory conference. Presentation of the PNPE - National Business Incubator. Présentation of the program of the Hackathon Cameroon 2022. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi.
+- 3 pm: Introductory conference. Presentation of the PNPE - National Business Incubator. Présentation of the program of the Hackathon Cameroon 2022. "African Smart-Cities and Urban Innovation startups' incubation in Togo" by Sename A. Koffi 🇹🇬.
 - 4.30 pm: Collective Picture.
 - 5 pm: Team matching event. Solo applicant attend to gather with team mates depending their interest. Teams will refine their solution together and with the mentors to make their idea clear and find precise objectives for the time of the hackathon.
 - 7 pm: Ice-Breaking party! Time to meet each others, know better your team mates, discuss the roles of each, get in touch with the staff, and enjoy the hard work.
 
 ###### Sunday 27 of March:
 - 9 am: First pitch. All teams take the call, present themselves and the challenge they want to work on. Mentors be sure everyone has a clear idea in mind and a schedule for the next two days. 
-- 11 am: first workshop (Urban planning by Neziri)
-- 12 pm: second workshop (GIS analysis by Liza)
-- 1 pm: third workshop (Causality mapping by Surjyatapa)
-- 2 pm: fourth workshop (Geospatial platform by Jordy)
-- 3 pm: fifth workshop (Design thinking by Anahide)
+- 11 am: first workshop (Urban planning by Neziri 🇽🇰)
+- 12 pm: second workshop (GIS analysis by Liza 🇷🇺)
+- 1 pm: third workshop (Causality mapping by Surjyatapa 🇮🇳)
+- 2 pm: fourth workshop (Geospatial platform by Jordy 🇨🇲)
+- 3 pm: fifth workshop (Design thinking by Anahide 🇫🇷)
 - 7 pm: checkpoint with mentors #1. All teams take the call. Mentors be sure they have made progress in their solution proposal and upskilled themselves to produce the best prototype. 
 
 ###### Monday 28 of march
 - 9 am: checkpoint with mentors #2. All teams take the call, give news and tells obstacles for which they need help. Mentors check what progress has been done in prototyping last night and spread support demands over coaches. 
-- 11 am: sixth workshop (Machine Learning by Volviane)
-- 12 pm: seventh workshop (Storytelling by Mariko)
-- 1 pm: eighth workshop (Crowdfounding by Roland)
-- 2 pm: ninth workshop (Content writing by Bate)
-- 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle)
+- 11 am: sixth workshop (Machine Learning by Volviane 🇨🇲)
+- 12 pm: seventh workshop (Storytelling by Mariko 🇯🇵)
+- 1 pm: eighth workshop (Crowdfounding by Roland 🇨🇲)
+- 2 pm: ninth workshop (Content writing by Bate 🇨🇲)
+- 3 pm: tenth workshop (News of the Camerounian ecocystem by Bayle 🇨🇲)
 - 7 pm: checkpoint with mentors #3. All teams take the call, present their prototype, business model, strategy for growth.
 
 ###### Tuesday 29 of March
